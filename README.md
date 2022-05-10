@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Zeeshan81920
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Zeeshan Ahmad
+- 👀 I’m interested in Android App Development
+- 🌱 I’m currently learning App development
+- 💞️ I’m looking to collaborate on Android App
+- 📫 zeejut123@gmail.com
 
 <!---
 Zeeshan81920/Zeeshan81920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
